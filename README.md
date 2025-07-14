@@ -55,7 +55,7 @@
 
 <div align="center">
   
-  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-Adminhudev.site-00ff88?style=for-the-badge)](https://www.elaishop.com.br/)
+  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-GinkunDev-00ff88?style=for-the-badge)](https://www.elaishop.com.br/)
   [![GitHub Repository](https://img.shields.io/badge/📁_Código_Fonte-web--site-181717?style=for-the-badge&logo=github)](https://www.elaishop.com.br/)
 </div>
 
