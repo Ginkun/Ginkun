@@ -62,7 +62,7 @@
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ginkun&theme=dark" alt="devAdminhu's contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ginkun&theme=dark" alt="Ginkun's contributions"/>
 </div>
 
 ---
