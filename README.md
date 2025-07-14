@@ -1,14 +1,14 @@
 # Olá, eu sou Ginkun! 👋
 
 <div align="center">
-  <a href="[https://adminhudev.site](https://www.elaishop.com.br/)">
+  <a href="[https://www.elaishop.com.br/](https://www.elaishop.com.br/)">
     <img src="https://img.shields.io/website?url=https://www.elaishop.com.br/&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
   </a>
   <a href="https://github.com/Ginkun?tab=followers">
-    <img src="https://img.shields.io/github/followers/devAdminhu?style=for-the-badge&logo=github" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/Ginkun?style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
   <a href="https://t.me/ginkundev">
-    <img src="https://img.shields.io/badge/Telegram-@devAdminhu-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@ginkundev-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=Ginkun&color=blueviolet&style=for-the-badge"/>
