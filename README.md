@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ginkun!
+# 👋 Olá, me chamo Marcelo!
 
 <div align="center">
   <a href="https://www.elaishop.com.br/">
